@@ -7,7 +7,7 @@ import os
 
 s = setup(name='bundled',
           version='1.0',
-          description='To stablize videos using bundled path method',
+          description='To stabilize videos using bundled path method',
           url='',
           author='Celine Wei',
           author_email='cw.git.general@gmail.com',
