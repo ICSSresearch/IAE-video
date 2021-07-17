@@ -1,0 +1,9 @@
+bundled.log
+bundled.egg-info
+dist
+.DS_Store
+
+*.so
+libs/
+build/
+__pycache__/
