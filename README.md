@@ -2,6 +2,26 @@
 
 4-stage Stab-TCN: the system that identifies bleeding and thermal injury event predictions in laparoscopic videos based on extracted features on stabilized frames.
 
+You can find the paper [here](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/60fb3a778591f203ee36a4cb/1627077241665/manuscript_optimized.pdf) published in _Machine Learning for Health Care 2021_. It will be available on PMLR volume 149 soon.
+
+To cite, please use the following bibex:
+
+```
+@InProceedings{pmlr-v149-iae-video,
+  title = {Intraoperative Adverse Event Detection in Laparoscopic Surgery: 
+  Stabilized Multi-Stage Temporal Convolutional Network with Focal-Uncertainty Loss},
+  author = {H. Wei, F. Rudzicz, D. Fleet, T. Grantcharov, and B. Taati},
+  booktitle = {Proceedings of the 6th Machine Learning for Healthcare Conference},
+  pages = {},
+  year = {2021},
+  volume = {149},
+  series = {Proceedings of Machine Learning Research},
+  month = {06--07 Aug},
+  publisher = {PMLR}  
+}
+```
+
+
 ## Overview: 4-stage Stab-TCN
 
 Our proposed intraoperative adverse event (iAE) detection system is a 4-stage stabilized temporal convolutional network (``4-stage Stab-TCN''). It consists of
